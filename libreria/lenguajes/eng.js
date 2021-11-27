@@ -1,6 +1,6 @@
 //You can edit this to your language ;3
 exports.panel = (prefix, time, fechanew) => {
-  return `*╔═「 _NK-BOT_ 」══*
+  return `*╔═「 _꧁♚𝕋𝕙𝕖 ℚ𝕦𝕖𝕖𝕟♔꧂_ 」══*
 *╠「 Time-Zone 🌎 」*
 *║Peru          : ${time}*
 *║New-York : ${fechanew}*
@@ -550,7 +550,7 @@ exports.apoyouwu2 = () => {
   return `[ APOYO ✓]`
 }
 exports.bienbenida = () => {
-  return `Bienbenid@`
+  return `Bienvenid@`
 }
 exports.bienbenida2 = () => {
   return `a este grandioso grupo :`
@@ -562,10 +562,10 @@ exports.admintrue = () => {
   return `Ahora sos un admin felicidades mi rey 😎🤝`
 }
 exports.adminfalse = () => {
-  return `Ya no eri admin 😞🤙`
+  return `Ya no eres admin 😞🤙`
 }
 exports.despedida = () => {
-  return `Adiuuu`
+  return `Adiós fue un placer compartir contigo suerte esperamos no volverte a ver`
 }
 exports.nolink = () => {
   return `*[ ! ]* Se detecto un enlace\nVos eri un administrador, así que no te prohibiré el uso de enlaces ;)`
